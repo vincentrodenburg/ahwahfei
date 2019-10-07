@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shueghuux.actionvillain.com/sitemap.xml
